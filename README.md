@@ -31,3 +31,15 @@ Large calendars cause performance and sync issues.
 
 ## Status
 Tested with real-world Thunderbird calendars (10+ years)
+
+## Usage
+
+1. Copy `termin_und_aufgabenarchivierung.py` into the folder containing your `kalender.ics` file.  
+2. Open a command prompt (CMD) or terminal.  
+3. Change directory to the folder containing the script and calendar file:  
+```bash
+cd path\to\folder
+
+4.  Run the script:
+
+python termin_und_aufgabenarchivierung.py
